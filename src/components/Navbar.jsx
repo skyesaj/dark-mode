@@ -8,6 +8,7 @@ const Navbar = () => {
     setDarkMode(!darkMode);
   };
 
+  // console.log("dark mode", darkMode);
   return (
     <nav className="navbar">
       <h1>Crypto Tracker</h1>
